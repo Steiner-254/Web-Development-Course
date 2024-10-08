@@ -13,3 +13,4 @@
 - We will use django
 - We will learn mpesa integrations.
 - Last 2 weeks will be projects.
+- Classroom Rules!
