@@ -1,4 +1,5 @@
 ## Web Development Cohort 4 Orientation
+- ***Day 1 Tuesday***
 
 - ***Virtual YouTube Link:*** https://www.youtube.com/live/WdDrqq64aKM
 
