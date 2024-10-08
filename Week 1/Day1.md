@@ -1,3 +1,3 @@
 ## Web Development Cohort 4 Orientation
 
-- Virtual YouTube Link: 
+- ***Virtual YouTube Link:*** https://www.youtube.com/live/WdDrqq64aKM
