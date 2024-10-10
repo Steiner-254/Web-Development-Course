@@ -3,5 +3,6 @@
 - Configured Pycharm with a premium license.
 - Coding a basic Website for selling cars named `Shavel API`
 - Basics of developing a website.
+- Directories in an IDE.
 
 >> ***Happy Web Development Learning <3***
