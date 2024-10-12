@@ -4,3 +4,4 @@
 - For heading tags, we have `h1`, `h2`, `h3`, `h4`, `h5` and `h6`
 - By default headings appear in bold.
 - Paragraphs are created with `p` tags.
+- `u` tag is used to underline words in html.
