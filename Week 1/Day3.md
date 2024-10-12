@@ -6,5 +6,6 @@
 - Paragraphs are created with `p` tags.
 - `u` tag is used to underline words in html.
 - `b` and `strong` tags are used to display words in bold.
-- use `i` tags to display words in italic
-- `subscript` and `superscript` tags
+- use `i` tags to display words in italic.
+- `subscript` and `superscript` tags.
+- Use break tags `br` to create spaces.
