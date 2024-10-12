@@ -9,3 +9,4 @@
 - use `i` tags to display words in italic.
 - `subscript` and `superscript` tags.
 - Use break tags `br` to create spaces.
+- `br` , `hr` and `img` tags do not have closing tags.
