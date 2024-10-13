@@ -15,4 +15,4 @@
 - For `CSS` styling, we use `style=""` attribute.
 - Organize work by creating `folders` and `files` respectively such as having a folder that handles styling - css files.
 - Creating files inside the respective folders.
-- Linking `css` files is done on the `head` tags of the index.html file of the website.
+- Linking `css` files is done on the `head` tags of the index.html file of the website. This is done by the help of a `link` tag.
