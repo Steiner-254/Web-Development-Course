@@ -17,3 +17,4 @@
 - Creating files inside the respective folders.
 - Linking `css` files is done on the `head` tags of the index.html file of the website. This is done by the help of a `link` tag.
 - `href` in `<link rel="stylesheet" href="">`, simply specifies the file that is going to be linked.
+- Immediately after creasting css files `main.css` or `style.css`, don't forget to link them to the `index.html` file.
