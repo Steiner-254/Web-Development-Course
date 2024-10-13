@@ -19,3 +19,4 @@
 - `href` in `<link rel="stylesheet" href="">`, simply specifies the file that is going to be linked.
 - Immediately after creasting css files `main.css` or `style.css`, don't forget to link them to the `index.html` file.
 - In external css file `main.css`, to stlye elements in `index.html`, mention them to `style` them.
+- `text-shadow` takes 4 values
