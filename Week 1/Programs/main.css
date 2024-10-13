@@ -4,4 +4,9 @@ h1{
     font-size: 80px;
     background-color: black;
     line-height: 100px;
+    text-shadow: 12px 4px 12px yellow;
+}
+
+h1:hover{
+    background-color: lightblue;
 }
