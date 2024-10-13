@@ -1,4 +1,4 @@
-# Setting Up Pycharm IDE For Web Development
+# Setting Up Pycharm IDE For Web Development && HTML tag && Basics Of CSS
 - Clear all default folders and files.
 - To `auto-complete` html code when starting to code, type the `exclamation mark - !` and also hit the `tab button` on your keyboard.
 - For heading tags, we have `h1`, `h2`, `h3`, `h4`, `h5` and `h6`
@@ -11,3 +11,4 @@
 - Use break tags `br` to create spaces.
 - `br` , `hr` and `img` tags do not have closing tags.
 - `hr` tag is used to draw a line.
+- `CSS` is used for styling web pages.
