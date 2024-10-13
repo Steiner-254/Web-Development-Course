@@ -13,3 +13,4 @@
 - `hr` tag is used to draw a line.
 - `CSS` is used for styling web pages.
 - For `CSS` styling, we use `style=""` attribute.
+- Organize work by creating `folders` and `files` respectively such as having a folder that handles styling - css files.
