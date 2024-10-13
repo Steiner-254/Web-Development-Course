@@ -20,3 +20,4 @@
 - Immediately after creasting css files `main.css` or `style.css`, don't forget to link them to the `index.html` file.
 - In external css file `main.css`, to stlye elements in `index.html`, mention them to `style` them.
 - `text-shadow` takes 4 values
+- `hover` tag is used to set the hovering effect on the tags respectively. It is codded in the `css` file.
